@@ -1,9 +1,5 @@
 'use strict';
-// console.log(document.querySelector('.message').textContent);
-// document.querySelector('.message').textContent = '✔ correct number';
-// document.querySelector('.number').textContent = 13;
-// document.querySelector('.score').textContent = 18;
-// document.querySelector('.guess').value = 8;
+
 let score = 20;
 let highScore = 0;
 const displayMessage = function (message) {
